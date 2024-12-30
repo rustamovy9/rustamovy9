@@ -1,6 +1,5 @@
-# 🌐 .NET Developer  
-Hi there! 👋 I'm **Rustamov Yusuf**, a passionate **C# .NET Core / ASP.NET Core Developer**.  
-I love building modern, scalable web applications and REST APIs.  
+<img style='width:1800px;' src='https://capsule-render.vercel.app/api?type=waving&color=164EAB&height=225&section=header&text=.NET%20DEV&fontColor=FFFFFF&fontAlign=22&fontAlignY=35&desc=Yusuf.Rustamov&descSize=20&descAlign=18&descAlignY=58&animation=twinkling' /> 
+
 
 ---
 
@@ -34,4 +33,4 @@ I love building modern, scalable web applications and REST APIs.
 ## 📬 **Connect with Me**  
 Feel free to reach out to me:  
 - **GitHub:** [Rustamov Yusuf](https://github.com/rustamovy9)  
-- **Email:** [your-email@example.com]  
+- **Email:** [yusufrstmv9@gmail.com]  
