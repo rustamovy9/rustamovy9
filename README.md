@@ -7,7 +7,7 @@
 <div align="center">
 
 ### 🌟 **Stats Overview**  
-![Rustamov Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=rustamovy9&show_icons=true&theme=radical)  
+![Rustamov Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=rustamovy9&show_icons=true&theme=radical&cache_seconds=86400)
 
 ### 🔥 **Current Streak**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rustamovy9&theme=radical)  
