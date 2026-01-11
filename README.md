@@ -4,9 +4,6 @@
 ---
 
 
-### 💻 **Top Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rustamovy9&layout=compact&theme=radical)
-
 </div>
 
 ---
