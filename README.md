@@ -3,11 +3,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-<div align="center">
-
-### 🌟 **Stats Overview**  
-![Rustamov Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=rustamovy9&show_icons=true&theme=radical&cache_seconds=86400)
 
 ### 💻 **Top Languages**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rustamovy9&layout=compact&theme=radical)
