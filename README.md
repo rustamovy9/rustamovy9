@@ -1,8 +1,19 @@
-<img style='width:1800px;' src='https://capsule-render.vercel.app/api?type=waving&color=164EAB&height=225&section=header&text=%SOFTWARE%10DEV&fontColor=FFFFFF&fontAlign=22&fontAlignY=35&desc=Yusuf.Rustamov&descSize=20&descAlign=18&descAlignY=58&animation=twinkling' /> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=164EAB&height=250&section=header&text=Yusuf%20Rustamov&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Software%20Engineer&descSize=24&descAlignY=60&animation=fadeIn" />
 
 </div>
 
 ---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=rustamovy9&show_icons=true&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rustamovy9&layout=compact&theme=tokyonight)
+
+</div>
+
+
 
 ## ⚙️ **Skills & Tools**  
 <div align="center">
