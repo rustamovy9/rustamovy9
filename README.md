@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000,1C1C1C,DAA520&height=240&section=header&text=Yusuf%20Rustamov&fontColor=FFFFFF&fontSize=40&fontAlignY=40&desc=Software%20Engineer&descSize=22&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A1A2E,16213E,0F3460&height=240&section=header&text=Yusuf%20Rustamov&fontColor=FFFFFF&fontSize=40&fontAlignY=40&desc=Software%20Engineer&descSize=22&descAlignY=60&animation=fadeIn" />
+
 </div>
 
 ---
