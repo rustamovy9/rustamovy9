@@ -7,17 +7,18 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rustamovy9&show_icons=true&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rustamovy9&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=rustamovy9&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rustamovy9&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
-
 
 
 ## ⚙️ **Skills & Tools**  
 <div align="center">
   
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?logo=.net&logoColor=white&style=for-the-badge)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET_Core-5C2D91?logo=.net&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
